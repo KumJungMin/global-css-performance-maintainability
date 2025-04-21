@@ -13,7 +13,3 @@
     </div>
   </div>
 </template>
-
-<script setup>
-import('./assets/setting-market.css');
-</script>
