@@ -1,30 +1,24 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+import MarketPage from './components/MarketPage.vue';
 </script>
 
 <template>
-  <div>
-    <a href="https://vite.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
-    </a>
-  </div>
-  <HelloWorld msg="Vite + Vue" />
-</template>
+  <div class="root">
+    <div class="wrap pt-20 pl-20">
+      <h1 class="mb-20" style="color: var(--color-primary)">
+        Global CSS 테스트
+      </h1>
+      <p class="pb-20" style="color: var(--color-dark)">
+        이 컴포넌트는 layout.css와 base.css의 클래스 유틸리티를 테스트하기 위한
+        것입니다.
+      </p>
 
-<style scoped>
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.vue:hover {
-  filter: drop-shadow(0 0 2em #42b883aa);
-}
-</style>
+      <div class="popup-wrap mt-20 p-20">
+        <p style="color: var(--color-secondary)">
+          팝업 스타일 테스트 박스입니다.
+        </p>
+      </div>
+    </div>
+    <MarketPage />
+  </div>
+</template>
