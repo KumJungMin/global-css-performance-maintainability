@@ -1,0 +1,30 @@
+{
+  // 💡 기본 설정
+  "editor.formatOnSave": true,
+
+  // 💅 Prettier 확장을 기본 포맷터로 지정
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // 🌐 언어별 포맷터 설정
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  // 🚀 성능 최적화 및 편의 설정
+  "typescript.tsdk": "node_modules/typescript/lib", // workspace TS 사용
+  "files.autoSave": "onFocusChange",
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+
+  // 📦 pnpm 사용시, 플러그인 인식 안 되면 아래 설정 추가
+  "prettier.prettierPath": "./node_modules/prettier"
+}
