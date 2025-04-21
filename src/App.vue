@@ -1,5 +1,3 @@
-<script setup lang="ts"></script>
-
 <template>
   <div class="root">
     <div class="wrap pt-20 pl-20">
@@ -15,3 +13,7 @@
     </div>
   </div>
 </template>
+
+<script setup>
+import('./assets/setting-market.css');
+</script>
