@@ -9,3 +9,6 @@ import './assets/reset.css';
 import './assets/setting-market.css';
 
 createApp(App).use(router).mount('#app');
+
+performance.mark('mounted');
+performance.measure('VueRenderTime', 'start', 'mounted');
