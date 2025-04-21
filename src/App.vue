@@ -1,6 +1,4 @@
-<script setup lang="ts">
-import MarketPage from './components/MarketPage.vue';
-</script>
+<script setup lang="ts"></script>
 
 <template>
   <div class="root">
@@ -13,12 +11,7 @@ import MarketPage from './components/MarketPage.vue';
         것입니다.
       </p>
 
-      <div class="popup-wrap mt-20 p-20">
-        <p style="color: var(--color-secondary)">
-          팝업 스타일 테스트 박스입니다.
-        </p>
-      </div>
+      <router-view></router-view>
     </div>
-    <MarketPage />
   </div>
 </template>
