@@ -1,0 +1,44 @@
+/* layout.css */
+
+/* 최상위 루트 요소 */
+.root {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #f9f9f9;
+  } 
+  
+  /* 앱 전체 컨테이너 */
+  .app {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+  
+  /* 콘텐츠 래퍼 */
+  .wrap {
+    flex: 1;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 16px;
+    box-sizing: border-box;
+  }
+  
+  /* 스크롤 비활성 처리 (모달 띄울 때 등) */
+  .no-scroll {
+    overflow: hidden;
+    height: 100%;
+  }
+  
+  /* 팝업 전체 영역을 감싸는 요소 */
+  .popup-wrap {
+    position: fixed;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: 9999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
