@@ -44,7 +44,7 @@ async function runSingleMeasurement() {
   });
 
   // 페이지 로드 (DOMContentLoaded 시점까지)
-  await page.goto('http://localhost:4173', {
+  await page.goto('http://localhost:4173/store', {
     waitUntil: 'domcontentloaded',
   });
   await page.waitForSelector('#app', { timeout: 5000 });
@@ -159,4 +159,4 @@ async function measureMultipleTimes(runs = 5) {
   console.log(`📄 리포트 저장: ${file}`);
 }
 
-measureMultipleTimes(40);
+measureMultipleTimes(50);

@@ -1,0 +1,926 @@
+{
+  "timestamp": "2025-04-27T04:12:32.634Z",
+  "runs": 50,
+  "results": [
+    {
+      "fcp": 92,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 5.100000023841858,
+          "responseEnd": 9.900000035762787,
+          "duration": 4.800000011920929
+        }
+      ],
+      "totalCssBlocking": 4.800000011920929,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 1,
+      "responseTime": 0.19999998807907104,
+      "domContentLoaded": 17.5
+    },
+    {
+      "fcp": 44,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.5,
+          "responseEnd": 7.5,
+          "duration": 3
+        }
+      ],
+      "totalCssBlocking": 3,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.6000000238418579,
+      "responseTime": 0.30000001192092896,
+      "domContentLoaded": 14.700000047683716
+    },
+    {
+      "fcp": 56,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.5,
+          "responseEnd": 8.399999976158142,
+          "duration": 3.899999976158142
+        }
+      ],
+      "totalCssBlocking": 3.899999976158142,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.699999988079071,
+      "responseTime": 0.20000004768371582,
+      "domContentLoaded": 16.19999998807907
+    },
+    {
+      "fcp": 44,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.599999964237213,
+          "responseEnd": 7.299999952316284,
+          "duration": 2.699999988079071
+        }
+      ],
+      "totalCssBlocking": 2.699999988079071,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.6000000238418579,
+      "responseTime": 0.30000001192092896,
+      "domContentLoaded": 15.099999964237213
+    },
+    {
+      "fcp": 52,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 5.099999964237213,
+          "responseEnd": 6.899999976158142,
+          "duration": 1.800000011920929
+        }
+      ],
+      "totalCssBlocking": 1.800000011920929,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.800000011920929,
+      "responseTime": 0.10000002384185791,
+      "domContentLoaded": 15.199999988079071
+    },
+    {
+      "fcp": 44,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.800000011920929,
+          "responseEnd": 6.5,
+          "duration": 1.699999988079071
+        }
+      ],
+      "totalCssBlocking": 1.699999988079071,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5,
+      "responseTime": 0.19999998807907104,
+      "domContentLoaded": 15.5
+    },
+    {
+      "fcp": 44,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.900000035762787,
+          "responseEnd": 6.800000011920929,
+          "duration": 1.899999976158142
+        }
+      ],
+      "totalCssBlocking": 1.899999976158142,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.7999999523162842,
+      "responseTime": 0.20000004768371582,
+      "domContentLoaded": 15.600000023841858
+    },
+    {
+      "fcp": 44,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.799999952316284,
+          "responseEnd": 6.399999976158142,
+          "duration": 1.600000023841858
+        }
+      ],
+      "totalCssBlocking": 1.600000023841858,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.699999988079071,
+      "responseTime": 0.19999998807907104,
+      "domContentLoaded": 14.799999952316284
+    },
+    {
+      "fcp": 88,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 5.199999988079071,
+          "responseEnd": 6.899999976158142,
+          "duration": 1.699999988079071
+        }
+      ],
+      "totalCssBlocking": 1.699999988079071,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.699999988079071,
+      "responseTime": 0.19999998807907104,
+      "domContentLoaded": 16.19999998807907
+    },
+    {
+      "fcp": 92,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 5,
+          "responseEnd": 7.899999976158142,
+          "duration": 2.899999976158142
+        }
+      ],
+      "totalCssBlocking": 2.899999976158142,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.800000011920929,
+      "responseTime": 0.19999998807907104,
+      "domContentLoaded": 15.600000023841858
+    },
+    {
+      "fcp": 48,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.899999976158142,
+          "responseEnd": 6.5,
+          "duration": 1.600000023841858
+        }
+      ],
+      "totalCssBlocking": 1.600000023841858,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.699999988079071,
+      "responseTime": 0.09999996423721313,
+      "domContentLoaded": 15.299999952316284
+    },
+    {
+      "fcp": 44,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.399999976158142,
+          "responseEnd": 6.599999964237213,
+          "duration": 2.199999988079071
+        }
+      ],
+      "totalCssBlocking": 2.199999988079071,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5,
+      "responseTime": 0.30000001192092896,
+      "domContentLoaded": 14.699999988079071
+    },
+    {
+      "fcp": 92,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.700000047683716,
+          "responseEnd": 7.200000047683716,
+          "duration": 2.5
+        }
+      ],
+      "totalCssBlocking": 2.5,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.699999988079071,
+      "responseTime": 0.19999998807907104,
+      "domContentLoaded": 15.100000023841858
+    },
+    {
+      "fcp": 56,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.299999952316284,
+          "responseEnd": 6.199999988079071,
+          "duration": 1.9000000357627869
+        }
+      ],
+      "totalCssBlocking": 1.9000000357627869,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.6000000238418579,
+      "responseTime": 0.30000001192092896,
+      "domContentLoaded": 14.699999988079071
+    },
+    {
+      "fcp": 44,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.300000011920929,
+          "responseEnd": 6.800000011920929,
+          "duration": 2.5
+        }
+      ],
+      "totalCssBlocking": 2.5,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 1,
+      "responseTime": 0.19999998807907104,
+      "domContentLoaded": 14.900000035762787
+    },
+    {
+      "fcp": 56,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.300000011920929,
+          "responseEnd": 6.400000035762787,
+          "duration": 2.100000023841858
+        }
+      ],
+      "totalCssBlocking": 2.100000023841858,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.800000011920929,
+      "responseTime": 0.30000001192092896,
+      "domContentLoaded": 14.900000035762787
+    },
+    {
+      "fcp": 44,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.599999964237213,
+          "responseEnd": 6.399999976158142,
+          "duration": 1.800000011920929
+        }
+      ],
+      "totalCssBlocking": 1.800000011920929,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5,
+      "responseTime": 0.19999998807907104,
+      "domContentLoaded": 15.099999964237213
+    },
+    {
+      "fcp": 92,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.399999976158142,
+          "responseEnd": 8.199999988079071,
+          "duration": 3.800000011920929
+        }
+      ],
+      "totalCssBlocking": 3.800000011920929,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.3999999761581421,
+      "responseTime": 0.19999998807907104,
+      "domContentLoaded": 15.599999964237213
+    },
+    {
+      "fcp": 92,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.800000011920929,
+          "responseEnd": 6.700000047683716,
+          "duration": 1.9000000357627869
+        }
+      ],
+      "totalCssBlocking": 1.9000000357627869,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5,
+      "responseTime": 0.19999998807907104,
+      "domContentLoaded": 14.900000035762787
+    },
+    {
+      "fcp": 56,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.100000023841858,
+          "responseEnd": 7.199999988079071,
+          "duration": 3.099999964237213
+        }
+      ],
+      "totalCssBlocking": 3.099999964237213,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5,
+      "responseTime": 0.30000001192092896,
+      "domContentLoaded": 14.699999988079071
+    },
+    {
+      "fcp": 56,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 5.400000035762787,
+          "responseEnd": 7.200000047683716,
+          "duration": 1.800000011920929
+        }
+      ],
+      "totalCssBlocking": 1.800000011920929,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.6000000238418579,
+      "responseTime": 0.19999998807907104,
+      "domContentLoaded": 15.5
+    },
+    {
+      "fcp": 56,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.300000011920929,
+          "responseEnd": 7.5,
+          "duration": 3.199999988079071
+        }
+      ],
+      "totalCssBlocking": 3.199999988079071,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5999999642372131,
+      "responseTime": 0.20000004768371582,
+      "domContentLoaded": 16
+    },
+    {
+      "fcp": 56,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.599999964237213,
+          "responseEnd": 6.199999988079071,
+          "duration": 1.600000023841858
+        }
+      ],
+      "totalCssBlocking": 1.600000023841858,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5999999642372131,
+      "responseTime": 0.19999998807907104,
+      "domContentLoaded": 14.800000011920929
+    },
+    {
+      "fcp": 44,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.199999988079071,
+          "responseEnd": 6.300000011920929,
+          "duration": 2.100000023841858
+        }
+      ],
+      "totalCssBlocking": 2.100000023841858,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5,
+      "responseTime": 0.19999998807907104,
+      "domContentLoaded": 14.5
+    },
+    {
+      "fcp": 56,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.5,
+          "responseEnd": 8,
+          "duration": 3.5
+        }
+      ],
+      "totalCssBlocking": 3.5,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5,
+      "responseTime": 0.30000001192092896,
+      "domContentLoaded": 15.600000023841858
+    },
+    {
+      "fcp": 56,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.900000035762787,
+          "responseEnd": 6.699999988079071,
+          "duration": 1.7999999523162842
+        }
+      ],
+      "totalCssBlocking": 1.7999999523162842,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5,
+      "responseTime": 0.2999999523162842,
+      "domContentLoaded": 15
+    },
+    {
+      "fcp": 56,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.199999988079071,
+          "responseEnd": 6.800000011920929,
+          "duration": 2.600000023841858
+        }
+      ],
+      "totalCssBlocking": 2.600000023841858,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5,
+      "responseTime": 0.40000003576278687,
+      "domContentLoaded": 14.600000023841858
+    },
+    {
+      "fcp": 60,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.5,
+          "responseEnd": 8.100000023841858,
+          "duration": 3.600000023841858
+        }
+      ],
+      "totalCssBlocking": 3.600000023841858,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5,
+      "responseTime": 0.19999998807907104,
+      "domContentLoaded": 16.5
+    },
+    {
+      "fcp": 100,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 5.199999988079071,
+          "responseEnd": 7.199999988079071,
+          "duration": 2
+        }
+      ],
+      "totalCssBlocking": 2,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.699999988079071,
+      "responseTime": 0.20000004768371582,
+      "domContentLoaded": 15.800000011920929
+    },
+    {
+      "fcp": 56,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.199999988079071,
+          "responseEnd": 6.600000023841858,
+          "duration": 2.400000035762787
+        }
+      ],
+      "totalCssBlocking": 2.400000035762787,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.3999999761581421,
+      "responseTime": 0.30000001192092896,
+      "domContentLoaded": 14.5
+    },
+    {
+      "fcp": 100,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 5.300000011920929,
+          "responseEnd": 7.5,
+          "duration": 2.199999988079071
+        }
+      ],
+      "totalCssBlocking": 2.199999988079071,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.6000000238418579,
+      "responseTime": 0.30000001192092896,
+      "domContentLoaded": 15.800000011920929
+    },
+    {
+      "fcp": 100,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.899999976158142,
+          "responseEnd": 6.599999964237213,
+          "duration": 1.699999988079071
+        }
+      ],
+      "totalCssBlocking": 1.699999988079071,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.699999988079071,
+      "responseTime": 0.19999998807907104,
+      "domContentLoaded": 15.5
+    },
+    {
+      "fcp": 56,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 5,
+          "responseEnd": 6.5,
+          "duration": 1.5
+        }
+      ],
+      "totalCssBlocking": 1.5,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5,
+      "responseTime": 0.30000001192092896,
+      "domContentLoaded": 15.199999988079071
+    },
+    {
+      "fcp": 92,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 5.5,
+          "responseEnd": 7.600000023841858,
+          "duration": 2.100000023841858
+        }
+      ],
+      "totalCssBlocking": 2.100000023841858,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5999999642372131,
+      "responseTime": 0.20000004768371582,
+      "domContentLoaded": 15.700000047683716
+    },
+    {
+      "fcp": 56,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.600000023841858,
+          "responseEnd": 8,
+          "duration": 3.399999976158142
+        }
+      ],
+      "totalCssBlocking": 3.399999976158142,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5,
+      "responseTime": 0.2999999523162842,
+      "domContentLoaded": 16.30000001192093
+    },
+    {
+      "fcp": 48,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 5.100000023841858,
+          "responseEnd": 6.699999988079071,
+          "duration": 1.5999999642372131
+        }
+      ],
+      "totalCssBlocking": 1.5999999642372131,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.699999988079071,
+      "responseTime": 0.10000002384185791,
+      "domContentLoaded": 15.199999988079071
+    },
+    {
+      "fcp": 44,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.099999964237213,
+          "responseEnd": 6,
+          "duration": 1.9000000357627869
+        }
+      ],
+      "totalCssBlocking": 1.9000000357627869,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.6000000238418579,
+      "responseTime": 0.10000002384185791,
+      "domContentLoaded": 14.399999976158142
+    },
+    {
+      "fcp": 100,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 5,
+          "responseEnd": 7.600000023841858,
+          "duration": 2.600000023841858
+        }
+      ],
+      "totalCssBlocking": 2.600000023841858,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.6000000238418579,
+      "responseTime": 0.30000001192092896,
+      "domContentLoaded": 15.900000035762787
+    },
+    {
+      "fcp": 92,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.100000023841858,
+          "responseEnd": 6.399999976158142,
+          "duration": 2.299999952316284
+        }
+      ],
+      "totalCssBlocking": 2.299999952316284,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5,
+      "responseTime": 0.19999998807907104,
+      "domContentLoaded": 14.199999988079071
+    },
+    {
+      "fcp": 44,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.900000035762787,
+          "responseEnd": 6.600000023841858,
+          "duration": 1.699999988079071
+        }
+      ],
+      "totalCssBlocking": 1.699999988079071,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5,
+      "responseTime": 0.20000004768371582,
+      "domContentLoaded": 15.300000011920929
+    },
+    {
+      "fcp": 52,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 5,
+          "responseEnd": 6.899999976158142,
+          "duration": 1.899999976158142
+        }
+      ],
+      "totalCssBlocking": 1.899999976158142,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5,
+      "responseTime": 0.19999998807907104,
+      "domContentLoaded": 15.099999964237213
+    },
+    {
+      "fcp": 44,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.899999976158142,
+          "responseEnd": 6.800000011920929,
+          "duration": 1.9000000357627869
+        }
+      ],
+      "totalCssBlocking": 1.9000000357627869,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5,
+      "responseTime": 0.20000004768371582,
+      "domContentLoaded": 15.600000023841858
+    },
+    {
+      "fcp": 52,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 5,
+          "responseEnd": 6.799999952316284,
+          "duration": 1.7999999523162842
+        }
+      ],
+      "totalCssBlocking": 1.7999999523162842,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5999999642372131,
+      "responseTime": 0.19999998807907104,
+      "domContentLoaded": 15.399999976158142
+    },
+    {
+      "fcp": 44,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.699999988079071,
+          "responseEnd": 6.300000011920929,
+          "duration": 1.600000023841858
+        }
+      ],
+      "totalCssBlocking": 1.600000023841858,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5,
+      "responseTime": 0.2999999523162842,
+      "domContentLoaded": 15
+    },
+    {
+      "fcp": 44,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.300000011920929,
+          "responseEnd": 6.5,
+          "duration": 2.199999988079071
+        }
+      ],
+      "totalCssBlocking": 2.199999988079071,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5,
+      "responseTime": 0.30000001192092896,
+      "domContentLoaded": 14.800000011920929
+    },
+    {
+      "fcp": 56,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.199999988079071,
+          "responseEnd": 7.199999988079071,
+          "duration": 3
+        }
+      ],
+      "totalCssBlocking": 3,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5,
+      "responseTime": 0.19999998807907104,
+      "domContentLoaded": 14.5
+    },
+    {
+      "fcp": 92,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 5.099999964237213,
+          "responseEnd": 7.099999964237213,
+          "duration": 2
+        }
+      ],
+      "totalCssBlocking": 2,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.3999999761581421,
+      "responseTime": 0.30000001192092896,
+      "domContentLoaded": 16
+    },
+    {
+      "fcp": 52,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.5,
+          "responseEnd": 6.200000047683716,
+          "duration": 1.7000000476837158
+        }
+      ],
+      "totalCssBlocking": 1.7000000476837158,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5,
+      "responseTime": 0.19999998807907104,
+      "domContentLoaded": 14.400000035762787
+    },
+    {
+      "fcp": 56,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 5.100000023841858,
+          "responseEnd": 7.900000035762787,
+          "duration": 2.800000011920929
+        }
+      ],
+      "totalCssBlocking": 2.800000011920929,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5999999642372131,
+      "responseTime": 0.30000001192092896,
+      "domContentLoaded": 16
+    },
+    {
+      "fcp": 96,
+      "cssResources": [
+        {
+          "name": "http://localhost:4173/assets/index-CCbirYMd.css",
+          "startTime": 4.899999976158142,
+          "responseEnd": 8.099999964237213,
+          "duration": 3.199999988079071
+        }
+      ],
+      "totalCssBlocking": 3.199999988079071,
+      "redirectTime": 0,
+      "dnsTime": 0,
+      "tcpTime": 0,
+      "requestTime": 0.5,
+      "responseTime": 0.30000001192092896,
+      "domContentLoaded": 15.300000011920929
+    }
+  ],
+  "averages": {
+    "fcp": 62.8,
+    "totalCssBlocking": 2.34200000166893,
+    "redirectTime": 0,
+    "dnsTime": 0,
+    "tcpTime": 0,
+    "requestTime": 0.5939999961853027,
+    "responseTime": 0.23200000405311585,
+    "domContentLoaded": 15.294000002145767
+  },
+  "standardDeviations": {
+    "fcp": 20.32141727340886,
+    "totalCssBlocking": 0.7351435208094841,
+    "redirectTime": 0,
+    "dnsTime": 0,
+    "tcpTime": 0,
+    "requestTime": 0.13328165683840887,
+    "responseTime": 0.06462197789222723,
+    "domContentLoaded": 0.6363678190125516
+  }
+}
