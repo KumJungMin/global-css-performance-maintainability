@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "measure": "concurrently \"npm run preview\" \"npm run measure:perf\"",
+    "measure:perf": "wait-on http://localhost:4173 && node ./src/scripts/measure-performance.js"
   },
   "dependencies": {
     "vue": "^3.5.13",
@@ -17,13 +19,16 @@
     "@typescript-eslint/parser": "^8.30.1",
     "@vitejs/plugin-vue": "^5.2.2",
     "@vue/tsconfig": "^0.7.0",
+    "concurrently": "^9.1.2",
     "eslint": "^9.25.0",
     "eslint-config-prettier": "^10.1.2",
     "eslint-plugin-prettier": "^5.2.6",
     "eslint-plugin-vue": "^10.0.0",
     "prettier": "^3.5.3",
+    "puppeteer": "^24.7.2",
     "typescript": "~5.7.2",
     "vite": "^6.3.1",
-    "vue-tsc": "^2.2.8"
+    "vue-tsc": "^2.2.8",
+    "wait-on": "^8.0.3"
   }
 }
